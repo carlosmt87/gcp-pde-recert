@@ -81,7 +81,11 @@ emphasizes the latest GCP-managed services, AI/ML data preparation, and governan
 | [Architectural Patterns](./architectural-patterns.md) | ETL/ELT, Lambda, Kappa, Medallion, Data Mesh, Lakehouse — with GCP implementations |
 | [What's New in the Renewal](./renewal-focus.md) | Services and topics added or elevated vs. the original PDE exam |
 | [Exam Traps](./exam-traps.md) | Common wrong answers and how to recognize the right one |
-| [Mock Exam](./mock-exam.md) | 30 scenario-based questions weighted by section, with answer key |
+| [BigQuery SQL Patterns](./bigquery-sql-patterns.md) | Partition management, MERGE, window functions, BQML, Vector Search, DML, and more |
+| [Hands-On Labs Map](./labs.md) | Skills Boost labs mapped by subsection with priority ratings |
+| [Mock Exam 1](./mock-exam.md) | 30 scenario-based questions weighted by section, with answer key |
+| [Mock Exam 2](./mock-exam-2.md) | 30 harder questions combining two topics per scenario, with answer key |
+| [Study Log](./study-log.md) | Personal session log — track what you studied, gaps, and confidence |
 
 ---
 

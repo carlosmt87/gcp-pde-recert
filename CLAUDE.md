@@ -32,7 +32,11 @@ Every subsection `.md` must follow this exact section order:
 - `architectural-patterns.md` — Named data architecture patterns (ETL/ELT, Lambda, Kappa, Medallion, Data Mesh, Lakehouse) with GCP implementations and tradeoffs
 - `renewal-focus.md` — Services and topics new or elevated in the renewal exam vs. the original PDE (BigLake, AlloyDB, Dataform, Analytics Hub, RAG/embeddings, BigQuery Editions, Dataplex Catalog)
 - `exam-traps.md` — Common wrong-answer patterns and trigger words for quickly identifying the correct service/approach under exam conditions
-- `mock-exam.md` — 30 scenario-based questions weighted by section with a scored answer key; includes a per-section score tracker
+- `bigquery-sql-patterns.md` — BigQuery SQL syntax reference: partition overwrite, MERGE, window functions, BQML (`CREATE MODEL`, `ML.PREDICT`, `ML.GENERATE_TEXT`), `VECTOR_SEARCH`, row-level security, time travel, and schema management
+- `labs.md` — Google Cloud Skills Boost labs mapped to each subsection with High/Medium priority ratings and recommended learning paths
+- `mock-exam.md` — 30 scenario-based questions weighted by section with a scored answer key and per-section breakdown
+- `mock-exam-2.md` — 30 harder questions designed to combine two topics per scenario; same structure as mock-exam.md
+- `study-log.md` — Personal session log with a progress snapshot table, per-session template (date, topics, gaps, confidence), and pre-populated Section 1 entry
 
 ## Progress Tracking
 
